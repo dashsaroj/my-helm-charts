@@ -30,4 +30,14 @@ entries:
     urls:
     - https://github.com/dashsaroj/my-helm-charts/releases/download/app3-0.1.0/app3-0.1.0.tgz
     version: 0.1.0
+  helmtest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-01T12:13:17.625380107Z"
+    description: A Helm chart for Kubernetes
+    digest: f5ab942f3e750811ba8dfad974fd2b5c4edf24c8a360bba9261eb35df334c627
+    name: helmtest
+    urls:
+    - https://github.com/dashsaroj/my-helm-charts/releases/download/helmtest-0.1.0/helmtest-0.1.0.tgz
+    version: 0.1.0
 generated: "2021-05-31T18:54:36.810994126Z"
